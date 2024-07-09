@@ -1,6 +1,6 @@
 Project Title: Invoice Manager
 
-Description:"Invoice Manager" is a web application designed to streamline billing processes by allowing users to create, manage. Built using Java with Spring Boot for the backend and React for the frontend, it provides a user-friendly interface where users can add new invoices, update their status (e.g. mark as paid).
+Description:"Invoice Manager" is a web application designed to streamline billing processes by allowing users to create and manage. Built using Java with Spring Boot for the backend and React for the frontend, it provides a user-friendly interface where users can add new invoices, update their status (e.g. mark as paid).
 
 Technologies Used:
 
