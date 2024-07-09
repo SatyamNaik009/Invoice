@@ -4,13 +4,13 @@ Description:"Invoice Manager" is a web application designed to streamline billin
 
 Technologies Used:
 
-Backend Development: Java: Core programming language for backend logic. Spring Boot: Framework for rapid application development, handling dependency injection, MVC architecture, and RESTful web services. Spring Data: Simplifies database interaction with JPA repositories. Spring Security: Ensures secure authentication and authorization.
+Backend Development: Java: Core programming language for backend logic. Spring Boot: Framework for rapid application development, handling dependency injection, MVC architecture, and RESTful web services. Spring Data: Simplifies database interaction with JPA repositories.
 
-Frontend Development: React: JavaScript library for building interactive user interfaces. React Router: Enables client-side routing for a smooth, single-page application experience. Axios: Handles asynchronous HTTP requests to the backend API.
+Frontend Development: React: JavaScript library for building interactive user interfaces. Axios: Handles asynchronous HTTP requests to the backend API.
 
 Database: MySQLL: Relaional database management system for storing hotel information, user data, and booking details. Hibernate: ORM (Object-Relational Mapping) tool for mapping Java objects to database tables and vice versa.
 
-Other Technologies: HTML & CSS: Markup and styling for frontend UI components. JWT (JSON Web Tokens): Used for secure authentication and session management. Git: Version control system for collaborative development and code management. Maven: Dependency management tools for building and managing Java-based projects.
+Other Technologies: HTML & CSS: Markup and styling for frontend UI components. Git: Version control system for collaborative development and code management. Maven: Dependency management tools for building and managing Java-based projects.
 
 Prerequisites: Java Development Kit (JDK): Ensure JDK 8 or higher is installed. You can download it from the Oracle website or use OpenJDK.
 
