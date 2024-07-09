@@ -8,7 +8,7 @@ Backend Development: Java: Core programming language for backend logic. Spring B
 
 Frontend Development: React: JavaScript library for building interactive user interfaces. Axios: Handles asynchronous HTTP requests to the backend API.
 
-Database: MySQLL: Relaional database management system for storing hotel information, user data, and booking details. Hibernate: ORM (Object-Relational Mapping) tool for mapping Java objects to database tables and vice versa.
+Database: MySQL: Relaional database management system for storing hotel information, user data, and booking details. Hibernate: ORM (Object-Relational Mapping) tool for mapping Java objects to database tables and vice versa.
 
 Other Technologies: HTML & CSS: Markup and styling for frontend UI components. Git: Version control system for collaborative development and code management. Maven: Dependency management tools for building and managing Java-based projects.
 
